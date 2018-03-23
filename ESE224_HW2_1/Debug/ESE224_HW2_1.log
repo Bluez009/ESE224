@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\erik\source\repos\ese224_hw2_1\ese224_hw2_1\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\erik\source\repos\ese224_hw2_1\ese224_hw2_1\source.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  ESE224_HW2_1.vcxproj -> C:\Users\Erik\source\repos\ESE224_HW2_1\Debug\ESE224_HW2_1.exe

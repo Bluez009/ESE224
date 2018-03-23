@@ -1,0 +1,35 @@
+While anyone can edit articles, to keep things manageable, only administrators can delete them. Note that removing
+all text from a page does not delete it, it just leaves a blank page, which is discouraged as it is confusing to
+readers. The text can be restored from the page history.
+
+This page explains how to ask for an article to be deleted from Wikipedia. For all the gritty details, see the
+deletion policy. Bear the following things in mind:
+
+It is better to improve an article than to delete it for not being good enough.
+
+An article that looks inappropriate may simply have been tampered with; you can fix this by reverting it to the
+better, previous version.
+
+If the article duplicates another, you can redirect it to the other one; there's no need for it to be deleted first.
+
+It's polite to let the article's author know that you are asking for it to be deleted; you can find them in
+the page history.
+
+Pages you created yourself
+If you create a page yourself and then change your mind, just add the text to the top of it; it will be deleted
+shortly afterward. If other contributors have edited the page, however, this usually won't be done; use one of the
+methods explained below.
+
+Pages which are not articles
+Not all pages in Wikipedia are encyclopedia articles. Those that begin with a prefix such as "Wikipedia:" or
+"User:" are used for organizing the project, so are not considered part of the encyclopedia. Different rules apply
+to these pages; you can't use the "proposed deletion" option mentioned below, and deletion discussions take place
+in different places. If you think one of these pages should be deleted, see the full Guide to deletion, which has
+more detailed instructions on what to do.
+
+Speedy deletion
+In certain limited circumstances, an article can be deleted on sight with no further discussion. These limited
+circumstances are called the criteria for speedy deletion, and pages that meet them are usually removed quickly.
+If you find one, you can mark it for deletion by adding the text {{delete| reason }} to the top of the page,
+replacing "reason" with the reason it should be deleted. Most articles do not meet the criteria, however, so
+check carefully before doing this.
